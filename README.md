@@ -13,3 +13,9 @@ Para configurar o sistema para desenvolvimento em sua máquina local, siga as in
    ``
 
 2. Execute o arquivo python ``mouseController.py``.
+
+
+
+
+https://user-images.githubusercontent.com/40063504/142768694-9f0da758-f604-4a62-8a3d-4476b407ea35.mp4
+
