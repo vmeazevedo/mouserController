@@ -12,4 +12,4 @@ Para configurar o sistema para desenvolvimento em sua máquina local, siga as in
    git clone https://github.com/vmeazevedo/mouserController
    ``
 
-2. Execute o arquivo python `` `mouseController.py```.
+2. Execute o arquivo python ``mouseController.py``.
